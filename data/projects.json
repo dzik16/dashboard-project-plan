@@ -1,0 +1,424 @@
+{
+  "people": [
+    {
+      "fullname": "after",
+      "projects": [
+        {
+          "project": "scb - dhn application",
+          "start_date": "2025-11-10",
+          "finish_date": "2025-11-19",
+          "total_tasks": 1,
+          "kompleksitas": 1,
+          "tasks": [
+            "credit card, dhn, fraud, and internal"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "alvyb",
+      "projects": [
+        {
+          "project": "qnb - qft mx to mt - pro",
+          "start_date": "2024-08-01",
+          "finish_date": "2024-08-07",
+          "total_tasks": 1,
+          "kompleksitas": 1,
+          "tasks": [
+            "outgoing - data entry (new)"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "alvyn",
+      "projects": [
+        {
+          "project": "qnb - qft mx to mt - pro",
+          "start_date": "2024-07-11",
+          "finish_date": "2024-09-03",
+          "total_tasks": 15,
+          "kompleksitas": 5,
+          "tasks": [
+            "outgoing - data entry (new)",
+            "outgoing - data repair adjustment",
+            "outgoing - authorize adjustment",
+            "outgoing - return adjustment",
+            "outgoing - cancellation adjustment",
+            "transaction skn",
+            "outgoing - data entry (new)",
+            "user - adding branch code user",
+            "entry mt202",
+            "authorize mt202",
+            "transaction entry bkt module",
+            "data repair bkt module",
+            "authorize bkt module",
+            "return bkt module",
+            "cancellation bkt module"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "during",
+      "projects": [
+        {
+          "project": "scb - dhn application",
+          "start_date": "2025-11-10",
+          "finish_date": "2025-11-19",
+          "total_tasks": 1,
+          "kompleksitas": 1,
+          "tasks": [
+            "credit card, dhn, fraud, and internal"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "eko",
+      "projects": [
+        {
+          "project": "software development",
+          "start_date": "2025-07-16",
+          "finish_date": "2025-07-17",
+          "total_tasks": 1,
+          "kompleksitas": 1,
+          "tasks": [
+            "testing"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "herman",
+      "projects": [
+        {
+          "project": "qnb - qft mx to mt - pro",
+          "start_date": "2024-06-12",
+          "finish_date": "2024-09-05",
+          "total_tasks": 7,
+          "kompleksitas": 3,
+          "tasks": [
+            "requirement gathering ii",
+            "functional specification document ii",
+            "database design",
+            "user interface design",
+            "test script",
+            "fsd sign off",
+            "internal testing ii"
+          ]
+        },
+        {
+          "project": "scb - dhn application",
+          "start_date": "2025-08-28",
+          "finish_date": "2025-09-01",
+          "total_tasks": 1,
+          "kompleksitas": 1,
+          "tasks": [
+            "fsd sign off"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "ika",
+      "projects": [
+        {
+          "project": "software development",
+          "start_date": "2025-07-15",
+          "finish_date": "2025-07-21",
+          "total_tasks": 10,
+          "kompleksitas": 4,
+          "tasks": [
+            "analysis",
+            "sql view user",
+            "sql sp create user",
+            "sql sp delete user",
+            "sql sp update user",
+            "sql sp create group/entitlement",
+            "sql sp delete group/entitlement",
+            "sql sp update group/entitlement",
+            "sit",
+            "uat"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "jeannie",
+      "projects": [
+        {
+          "project": "qnb - qft mx to mt - pro",
+          "start_date": "2024-07-08",
+          "finish_date": "2024-07-10",
+          "total_tasks": 1,
+          "kompleksitas": 1,
+          "tasks": [
+            "fsd sign off"
+          ]
+        },
+        {
+          "project": "scb - dhn application",
+          "start_date": "2025-08-28",
+          "finish_date": "2025-09-01",
+          "total_tasks": 1,
+          "kompleksitas": 1,
+          "tasks": [
+            "fsd sign off"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "pg1",
+      "projects": [
+        {
+          "project": "scb - dhn application",
+          "start_date": "2025-09-02",
+          "finish_date": "2025-10-23",
+          "total_tasks": 11,
+          "kompleksitas": 4,
+          "tasks": [
+            "dashboard",
+            "login",
+            "user",
+            "group / role",
+            "user access matrix",
+            "audit trail",
+            "general approval",
+            "internal blacklist",
+            "dhib",
+            "dhn monitoring tracker",
+            "file processing"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "pg2",
+      "projects": [
+        {
+          "project": "scb - dhn application",
+          "start_date": "2025-09-02",
+          "finish_date": "2025-10-22",
+          "total_tasks": 10,
+          "kompleksitas": 4,
+          "tasks": [
+            "system parameter",
+            "letter",
+            "dhn inquiry",
+            "matching dedup",
+            "entry",
+            "internal blacklist inquiry",
+            "deletion",
+            "dhn - matching dedup",
+            "internal blacklist - entry",
+            "internal blacklist - deletion"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "pg3",
+      "projects": [
+        {
+          "project": "scb - dhn application",
+          "start_date": "2025-09-02",
+          "finish_date": "2025-10-27",
+          "total_tasks": 8,
+          "kompleksitas": 3,
+          "tasks": [
+            "entry",
+            "dhib inquiry",
+            "deletion",
+            "letter",
+            "dhib - entry",
+            "dhib - deletion",
+            "file importing",
+            "file generation"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "qa",
+      "projects": [
+        {
+          "project": "qnb - qft mx to mt - pro",
+          "start_date": "2024-07-11",
+          "finish_date": "2024-09-05",
+          "total_tasks": 2,
+          "kompleksitas": 2,
+          "tasks": [
+            "test script",
+            "internal testing ii"
+          ]
+        },
+        {
+          "project": "scb - dhn application",
+          "start_date": "2025-09-09",
+          "finish_date": "2025-10-29",
+          "total_tasks": 2,
+          "kompleksitas": 2,
+          "tasks": [
+            "test script",
+            "internal testing"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "qnb",
+      "projects": [
+        {
+          "project": "qnb - qft mx to mt - pro",
+          "start_date": "2024-07-08",
+          "finish_date": "2024-07-10",
+          "total_tasks": 1,
+          "kompleksitas": 1,
+          "tasks": [
+            "fsd sign off"
+          ]
+        },
+        {
+          "project": "scb - dhn application",
+          "start_date": "2025-08-28",
+          "finish_date": "2025-09-01",
+          "total_tasks": 1,
+          "kompleksitas": 1,
+          "tasks": [
+            "fsd sign off"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "rendy",
+      "projects": [
+        {
+          "project": "scb - dhn application",
+          "start_date": "2025-08-13",
+          "finish_date": "2025-09-11",
+          "total_tasks": 4,
+          "kompleksitas": 2,
+          "tasks": [
+            "functional specification document",
+            "database design",
+            "user interface design",
+            "test script"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "ryan",
+      "projects": [
+        {
+          "project": "qnb - qft mx to mt - pro",
+          "start_date": "2024-07-19",
+          "finish_date": "2024-08-28",
+          "total_tasks": 14,
+          "kompleksitas": 4,
+          "tasks": [
+            "dashboard",
+            "generate output pacs.009 and camt.057",
+            "new outgoing - bkt transaction report",
+            "adjustment outgoing - swift transaction report",
+            "adjustment outgoing - skn transaction report",
+            "adjustment outgoing - rtgs transaction report",
+            "new outgoing - mt202 transaction report",
+            "adjustment ifs generate file output rtgs",
+            "adjustment ifs generate file output skn",
+            "adjustment ifs generate file output swift",
+            "adjustment ifs generate file posting swift",
+            "adjustment ifs generate file posting rtgs",
+            "adjustment ifs generate file posting skn",
+            "adjutsment ifs bkt generate file posting"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "sla",
+      "projects": [
+        {
+          "project": "software development",
+          "start_date": "2025-07-16",
+          "finish_date": "2025-07-18",
+          "total_tasks": 2,
+          "kompleksitas": 2,
+          "tasks": [
+            "mapping",
+            "format json input/output"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "slamet",
+      "projects": [
+        {
+          "project": "qnb - qft mx to mt - pro",
+          "start_date": "2024-09-06",
+          "finish_date": "2024-09-20",
+          "total_tasks": 1,
+          "kompleksitas": 1,
+          "tasks": [
+            "user manual"
+          ]
+        },
+        {
+          "project": "scb - dhn application",
+          "start_date": "2025-10-29",
+          "finish_date": "2025-11-10",
+          "total_tasks": 2,
+          "kompleksitas": 2,
+          "tasks": [
+            "installation manual",
+            "user manual"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "team",
+      "projects": [
+        {
+          "project": "qnb - qft mx to mt - pro",
+          "start_date": "2024-07-08",
+          "finish_date": "2024-07-10",
+          "total_tasks": 1,
+          "kompleksitas": 1,
+          "tasks": [
+            "fsd sign off"
+          ]
+        },
+        {
+          "project": "scb - dhn application",
+          "start_date": "2025-08-28",
+          "finish_date": "2025-09-01",
+          "total_tasks": 1,
+          "kompleksitas": 1,
+          "tasks": [
+            "fsd sign off"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "uat",
+      "projects": [
+        {
+          "project": "scb - dhn application",
+          "start_date": "2025-11-10",
+          "finish_date": "2025-11-19",
+          "total_tasks": 1,
+          "kompleksitas": 1,
+          "tasks": [
+            "credit card, dhn, fraud, and internal"
+          ]
+        }
+      ]
+    }
+  ]
+}
